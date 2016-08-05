@@ -4,6 +4,7 @@ import Helmet from 'react-helmet';
 import Navbar from 'components/Navbar/Navbar';
 import './App.css';
 import Footer from 'components/Footer/Footer';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default class App extends Component {
   static propTypes = {
